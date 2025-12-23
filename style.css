@@ -276,7 +276,6 @@ gap: 15px;
 .footer-link{
     display: flex;
     flex-direction: row;
-    gap: 22px;
     align-items: center;
     color: #FFFFFF;
     font-size: 20px;
