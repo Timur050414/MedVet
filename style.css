@@ -38,8 +38,8 @@ span{
 
 .header-container{
     display: flex;
-    align-items: center;
     justify-content: space-between;
+    align-items: center;
 }
 
 .header-list{
@@ -142,8 +142,7 @@ gap: 15px;
 }
 
 .services-subtitle{
-
-    
+    font-weight: 400;
     font-size:24px ;
     color: #3A2E2E;
     margin-bottom: 25px;
@@ -153,9 +152,7 @@ gap: 15px;
 }
 
 .services-span{
-
     font-weight: 500;
-    
 }
 
 .services-text{
@@ -195,6 +192,7 @@ gap: 15px;
 
 .specialists{
     padding-top: 32px;
+    padding-bottom: 64px;
 }
 
 .specialists-title{
@@ -223,20 +221,12 @@ gap: 15px;
     align-items: center;
 }
 
-
-.specialists-item{
-    font-weight: 600;
-   
-
-}
-
 .specialists-subtitle{
     font-size: 32px;
     font-weight: 600;
     margin-top: 64px;
     display: flex;
     align-items: center;
-    margin-bottom: 64px;
     width: 224px;
     padding-top:32px ;
     margin: 18px  auto 47px ;
